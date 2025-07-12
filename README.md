@@ -16,7 +16,6 @@ A machine learning project that predicts whether to **Play** or **Not Play** bas
 
 - **File:** `large_weather_dataset.csv`
 - **Attributes:** Various weather parameters like temperature, humidity, wind, outlook, etc.
-- **Target Label:** `Play` (Yes or No)
 
 ---
 
@@ -77,23 +76,6 @@ Classification Report:
 weighted avg       0.89      0.89      0.89        87
 ```
 
-📊 Confusion Matrix:
-
-> A heatmap showing how many predictions were correct vs incorrect for each class (`Play = Yes/No`).
-
----
-
-## 📁 Project Structure
-
-```
-Weather-Prediction/
-│
-├── large_weather_dataset.csv       # Dataset file
-├── weather_naive_bayes.py          # Main Python script
-├── README.md                       # Project documentation
-└── requirements.txt                # Python dependencies
-```
-
 ---
 
 ## 📌 How to Run
@@ -139,12 +121,6 @@ seaborn
 🎓 B.Tech in CSE (AI), KIET Group of Institutions  
 📘 BS in Data Science, IIT Madras  
 🌐 [GitHub: Prat260104](https://github.com/Prat260104)
-
----
-
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
